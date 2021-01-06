@@ -10,7 +10,7 @@
 /**
  * Function to check if the given number is factorial of some number or not.
  * @param n number to be checked.
- * @return if number is a factorial, returns true, else false.
+ * @return true if number is a factorial, ifnot return false.
  */
 
 bool is_factorial(uint64_t n) {
